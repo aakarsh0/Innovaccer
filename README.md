@@ -3,7 +3,7 @@ to run this file,download both the files in a single folder and run "python prac
 Unique_IDs.csv is the output file of this code
 
 
-##*Pandas libray is used in this program*
+##*Pandas library is used in this program*
 ##
 ##This will take input as a csv file, in same format that was given in
 ##the problem statement and with the same file name. In case other file is to
